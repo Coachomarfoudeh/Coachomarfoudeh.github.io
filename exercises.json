@@ -20,11 +20,10 @@
       "description": "تمرين المعدة هو تمرين شائع، يتم تطبيقه بالتمدد على الأرض والوجه إلى الأعلى مع تقويس الارجل للأعلى ثم رفع الجزء العلوي من الجسم مع تثبيت الجزء السفلي ووضع اليدين على الصدر أو خلف الرأس. يركز تمرين المعدة على تطوير عضلة البطن.",
       "video": "https://www.youtube.com/embed/ihYbPL4CLfo"
     },
-       "name": "running bike",
-      "description": "increase bone dentisy.",
+    {
+      "name": "Running Bike",
+      "description": "Increase bone density.",
       "video": "https://mega.nz/embed/Y39CBS4A#kiDSsJZ9IAvo29lm4N79SuCNBxphYCkbNqnz6KIc9fs"
-    
-
-// Don't touch ;)
+    }
   ]
 }
