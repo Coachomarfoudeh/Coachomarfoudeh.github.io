@@ -1,0 +1,25 @@
+{
+    "exercises": [
+      {
+        "name": "Pull Up",
+        "description": "A pull-up is an upper-body strength exercise. The pull-up is a closed-chain movement where the body is suspended by the hands, gripping a bar or other implement at a distance typically wider than shoulder-width, and pulled up. As this happens, the elbows flex and the shoulders adduct and extend to bring the elbows to the torso.",
+        "video": "https://www.youtube.com/embed/eGo4IYlbE5g"
+      },
+      {
+        "name": "Push Up",
+        "description": "The push-up (press-up in British English) is a common calisthenics exercise beginning from the prone position. By raising and lowering the body using the arms, push-ups exercise the pectoral muscles, triceps, and anterior deltoids, with ancillary benefits to the rest of the deltoids, serratus anterior, coracobrachialis and the midsection as a whole.[1] Push-ups are a basic exercise used in civilian athletic training or physical education and commonly in military physical training. They are also a common form of punishment used in the military, school sport, and some martial arts disciplines. Variations of push-ups, such as wide-arm push-ups, diamond push-ups target specific muscle groups and provide further challenges.",
+        "video": "https://www.youtube.com/embed/IODxDxX7oi4"
+      },
+      {
+        "name": "Dip",
+        "description": "A dip is an upper-body strength exercise. Close grip dips primarily train the triceps, with major synergists being the anterior deltoid, the pectoralis muscles, and the rhomboid muscles of the back.[1] Wide shoulder width dips place additional emphasis on the pectoral muscles, similar in respect to the way a wide grip bench press would focus more on the pectorals and less on the triceps.[2]",
+        "video": "https://www.youtube.com/embed/IODxDxX7oi4"
+      }
+      ,{
+        "name": "المعده",
+        "description": "تمرين المعدة هو تمرين شائع، يتم تطبيقه بالتمدد على الأرض والوجه إلى الأعلى مع تقويس الارجل للأعلى ثم رفع الجزء العلوي من الجسم مع تثبيت الجزء السفلي ووضع اليدين على الصدر أو خلف الرأس. يركز تمرين المعدة على تطوير عضلة البطن.",
+        "video": "https://www.youtube.com/embed/ihYbPL4CLfo"
+      }
+    ]
+  }
+  
